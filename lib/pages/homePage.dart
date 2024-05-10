@@ -25,7 +25,7 @@ class WelcomeScreen extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-        child: Center(S
+        child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
