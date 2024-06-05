@@ -253,7 +253,6 @@ class WelcomeScreen extends StatelessWidget {
                             // Navigator.push(context, route);
                           }
                           print('foi não');
-      
                         },
                         child: Container(
                           padding: const EdgeInsets.symmetric(
