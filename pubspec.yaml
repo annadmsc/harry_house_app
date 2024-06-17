@@ -52,6 +52,14 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  fonts:
+    - family: HarryP
+      fonts:
+        - asset: fonts/harry.TTF
+    - family: harryp
+      fonts: 
+        - asset: fonts/ModernAntiqua-Regular.ttf
+
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -61,6 +69,10 @@ flutter:
   assets:
     - assets/
     - assets/imgs/harry-potter-background.png
+    - assets/imgs/corvinal.png
+    - assets/imgs/grifinoria.png
+    - assets/imgs/lufalufa.png
+    - assets/imgs/soncerina.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
